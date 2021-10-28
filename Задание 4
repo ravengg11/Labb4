@@ -1,0 +1,5 @@
+Задание №4
+```
+a, b, c = int(input()), int(input()), int(input())
+print(min(a, b, c))
+```
