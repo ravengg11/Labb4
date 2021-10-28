@@ -1,0 +1,8 @@
+Задание №3
+```
+a, b, c = int(input()), int(input()), int(input())
+if (a >= 0) and (b >= 0) and (c >= 0):
+print('YES')
+else:
+print('NO')
+```
